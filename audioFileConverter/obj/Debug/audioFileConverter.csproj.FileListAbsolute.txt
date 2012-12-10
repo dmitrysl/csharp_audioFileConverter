@@ -1,0 +1,13 @@
+D:\Project\my\audioFileConverter\audioFileConverter\bin\Debug\audioFileConverter.exe.config
+D:\Project\my\audioFileConverter\audioFileConverter\bin\Debug\audioFileConverter.exe
+D:\Project\my\audioFileConverter\audioFileConverter\bin\Debug\audioFileConverter.pdb
+D:\Project\my\audioFileConverter\audioFileConverter\obj\Debug\audioFileConverter.csprojResolveAssemblyReference.cache
+D:\Project\my\audioFileConverter\audioFileConverter\obj\Debug\MainWindow.baml
+D:\Project\my\audioFileConverter\audioFileConverter\obj\Debug\MainWindow.g.cs
+D:\Project\my\audioFileConverter\audioFileConverter\obj\Debug\App.g.cs
+D:\Project\my\audioFileConverter\audioFileConverter\obj\Debug\audioFileConverter_MarkupCompile.cache
+D:\Project\my\audioFileConverter\audioFileConverter\obj\Debug\audioFileConverter.g.resources
+D:\Project\my\audioFileConverter\audioFileConverter\obj\Debug\audioFileConverter.Properties.Resources.resources
+D:\Project\my\audioFileConverter\audioFileConverter\obj\Debug\audioFileConverter.csproj.GenerateResource.Cache
+D:\Project\my\audioFileConverter\audioFileConverter\obj\Debug\audioFileConverter.exe
+D:\Project\my\audioFileConverter\audioFileConverter\obj\Debug\audioFileConverter.pdb

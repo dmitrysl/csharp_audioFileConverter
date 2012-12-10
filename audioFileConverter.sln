@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "audioFileConverterApplication", "audioFileConverter\audioFileConverterApplication.csproj", "{3304BB3A-A085-4884-BDC3-AE6CE786574F}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7FAF5E46-EA97-4EB3-A2C0-FBD43BA938DF} = {7FAF5E46-EA97-4EB3-A2C0-FBD43BA938DF}
+		{965C6235-141F-4947-BF6E-A02C5C4297DF} = {965C6235-141F-4947-BF6E-A02C5C4297DF}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetroStyle.SystemSyles", "WpfApplication1\MetroStyle.SystemSyles.csproj", "{7FAF5E46-EA97-4EB3-A2C0-FBD43BA938DF}"
+	ProjectSection(ProjectDependencies) = postProject
+		{965C6235-141F-4947-BF6E-A02C5C4297DF} = {965C6235-141F-4947-BF6E-A02C5C4297DF}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "audioFileConverter.Core", "audioFileConverter.Core\audioFileConverter.Core.csproj", "{965C6235-141F-4947-BF6E-A02C5C4297DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3304BB3A-A085-4884-BDC3-AE6CE786574F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3304BB3A-A085-4884-BDC3-AE6CE786574F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3304BB3A-A085-4884-BDC3-AE6CE786574F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3304BB3A-A085-4884-BDC3-AE6CE786574F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FAF5E46-EA97-4EB3-A2C0-FBD43BA938DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FAF5E46-EA97-4EB3-A2C0-FBD43BA938DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FAF5E46-EA97-4EB3-A2C0-FBD43BA938DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FAF5E46-EA97-4EB3-A2C0-FBD43BA938DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{965C6235-141F-4947-BF6E-A02C5C4297DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{965C6235-141F-4947-BF6E-A02C5C4297DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{965C6235-141F-4947-BF6E-A02C5C4297DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{965C6235-141F-4947-BF6E-A02C5C4297DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
